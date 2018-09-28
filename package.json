@@ -1,0 +1,7 @@
+{
+  "name": "",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "version": ""
+}
